@@ -24,6 +24,6 @@ No ver pessoas, ele mostra as informações da Pessoa, inclusive o Endereço e a
 
 No Enviar Carta, o sistema pede o cep e o número da casa da pessoa
 
-Aí o sistema faz uma pesquisa em quem tem aquele cep e número da casa
+O sistema faz uma pesquisa em quem tem aquele cep e número da casa
 
 Para colocar essa Carta nas cartas recebidas da tal Pessoa
