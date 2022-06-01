@@ -1,8 +1,7 @@
 # Correios
 
-******************
-## Atividade proposta no curso Java Training com a mentoria de Guilherme de Jesus
-******************
+Atividade proposta no curso Java Training com a mentoria de [Guilherme de Jesus](https://github.com/guilherme-gjv)
+---
 
 Criem uma classe Endereco, Pessoa e Carta
 
